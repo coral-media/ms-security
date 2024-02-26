@@ -1,0 +1,6 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: Security\Controller
+    prefix: /security
+    type: attribute
