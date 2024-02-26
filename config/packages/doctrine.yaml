@@ -19,7 +19,7 @@ doctrine:
                 type: attribute
                 is_bundle: false
                 dir: '%microservice.dir%/src/Entity'
-                prefix: 'Security\Entity'
+                prefix: 'MsSecurity\Entity'
                 alias: Security
 
 when@test:
